@@ -6,7 +6,7 @@
 
 <head>
   <style>
-    body {
+    .body {
       display: flex;
       justify-content: center;
       align-items: center;
@@ -15,7 +15,7 @@
       background-color: #f0f0f0; /* Optional background color */
     }
 
-  button {
+  .button {
       font-size: 24px; /* Bigger text size */
       padding: 20px 50px; /* Bigger button size */
       background-color: purple; /* Button background color */
