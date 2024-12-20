@@ -6,20 +6,39 @@
 
 
 <button name="button" onclick=Page1>CLICK HERE TO START</button>
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
   <style>
-    /* CSS styles here */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* Full viewport height */
+      margin: 0;
+      background-color: #f0f0f0; /* Optional background color */
+    }
+
+  button {
+      font-size: 24px; /* Bigger text size */
+      padding: 20px 40px; /* Bigger button size */
+      background-color: purple; /* Button background color */
+      color: white; /* Text color */
+      border: none; /* Remove border */
+      border-radius: 8px; /* Rounded corners */
+      cursor: pointer; /* Pointer cursor on hover */
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow */
+      transition: transform 0.2s, box-shadow 0.2s; /* Animation for hover effect */
+    }
+
+  button:hover {
+      transform: scale(1.1); /* Slightly enlarge on hover */
+      box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow */
+    }
   </style>
 </head>
 <body>
-  <button name="button" onclick="Page1()">CLICK HERE TO START</button>
-  <script>
-    function Page1() {
-      alert("Button clicked! Add your functionality here.");
-    }
-  </script>
+  <button name="button" onclick=Page1>CLICK HERE TO START</button>
+
 </body>
 </html>
 
