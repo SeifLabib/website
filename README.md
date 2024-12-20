@@ -4,6 +4,7 @@
 
 # So buckle on because this is going to be a long ride.
 
+<html>
 <head>
   <style>
     body {
