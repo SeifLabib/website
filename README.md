@@ -35,7 +35,6 @@
 </head>
 <body>
   <button name="button" onclick=/Page1>CLICK HERE TO START THE JOURNEY</button>
-
 </body>
 </html>
 
