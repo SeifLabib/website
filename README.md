@@ -4,9 +4,6 @@
 
 # So buckle on because this is going to be a long ride.
 
-
-<button name="button" onclick=Page1>CLICK HERE TO START</button>
-
 <head>
   <style>
     body {
@@ -20,7 +17,7 @@
 
   button {
       font-size: 24px; /* Bigger text size */
-      padding: 20px 40px; /* Bigger button size */
+      padding: 20px 50px; /* Bigger button size */
       background-color: purple; /* Button background color */
       color: white; /* Text color */
       border: none; /* Remove border */
@@ -37,7 +34,7 @@
   </style>
 </head>
 <body>
-  <button name="button" onclick=Page1>CLICK HERE TO START</button>
+  <button name="button" onclick=Page1>CLICK HERE TO START THE JOURNEY</button>
 
 </body>
 </html>
