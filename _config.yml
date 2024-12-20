@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
 title: Outliars - ♟️
 description: ♟️ The Grandmasters Path
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
-  - title: Example
-    url: example
