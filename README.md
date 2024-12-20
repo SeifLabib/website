@@ -1,4 +1,8 @@
-# ADA Template Website
+# Outliars ADA Project: ♟️ The Grandmaster's Path
+
+Listen, we have been using ChatGPT/working for a long time waiting for this moment to come, and here it is!
+So buckle on because this is going to be a long ride.
+
 ## Usage
 1. Fork (copy) this repository by clicking the "Fork" button on the top right corner.
 2. Go to "Settings" -> "Pages" in your forked repository. Under "Branch" change "None" to "master" and click "Save".
