@@ -4,10 +4,25 @@
 
 # So buckle on because this is going to be a long ride.
 
-# Click HERE 
-[button url=start]
-<button name="button" onclick="http://www.google.com">Click me</button>
 
+<button name="button" onclick=Page1>CLICK HERE TO START</button>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    /* CSS styles here */
+  </style>
+</head>
+<body>
+  <button name="button" onclick="Page1()">CLICK HERE TO START</button>
+  <script>
+    function Page1() {
+      alert("Button clicked! Add your functionality here.");
+    }
+  </script>
+</body>
+</html>
 
 ## Usage
 1. Fork (copy) this repository by clicking the "Fork" button on the top right corner.
