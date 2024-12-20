@@ -6,7 +6,6 @@
 
 
 <button name="button" onclick=Page1>CLICK HERE TO START</button>
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
